@@ -1,5 +1,5 @@
 {
-    "name": "wunderio/ecs-drupal",
+    "name": "hkirsman/ecs-drupal",
     "description": "Finder for ECS.",
     "type": "library",
     "require": {
